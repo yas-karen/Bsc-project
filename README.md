@@ -89,25 +89,3 @@ where:
 This formulation can describe competitive, cooperative, or predatory relationships between income classes, depending on the sign of \( b_{ij} \).
 
 ---
-
-## 📄 License
-
-You may include an open-source license (e.g. MIT, GPL-3.0) if you wish to make the code publicly reusable.  
-
----
-
-## 🧾 Author
-
-**Karen Yas**  
-Bachelor’s Project in Complex Systems / Computational Economics  
-
----
-
-## 📚 References
-
-- Lotka, A. J. (1925). *Elements of Physical Biology.*  
-- Volterra, V. (1926). *Fluctuations in the abundance of a species considered mathematically.*  
-- Strogatz, S. H. (2015). *Nonlinear Dynamics and Chaos.*  
-- Yakovenko, V. M. & Rosser, J. B. (2009). *Colloquium: Statistical mechanics of money, wealth, and income.* *Rev. Mod. Phys.* 81(4), 1703–1725.
-
----
